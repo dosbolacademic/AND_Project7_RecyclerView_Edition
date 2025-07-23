@@ -2,15 +2,15 @@
 
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Your Name Here**
+Submitted by: **Dosbol Aliev**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**RecyclerView App** is an android app that **an Android app that displays a scrollable list of NASA_API using a RecyclerView. The data is fetched from a public API and rendered dynamically. Users can scroll through the list to explore various items with their names, images, or descriptions**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **📱🔁🚀**
 
 ## Application Features
 
@@ -51,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Dosbol Aliev**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
